@@ -19,10 +19,9 @@
   
 ### OneAI in Action
 
-<video width="600" controls>
-  <source src="https://github.com/maxohm1/OneAI-ScreenShot/raw/main/Oneai%20video%20showcase.mp4" type="video/mp4">
-  <p>Your browser does not support the video tag. <a href="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/Oneai%20video%20showcase.mp4">Click here to view the video</a></p>
-</video>
+[![OneAI Video Showcase](https://img.shields.io/badge/▶️_Watch_Video-OneAI_Showcase-red?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/maxohm1/OneAI-ScreenShot/raw/main/Oneai%20video%20showcase.mp4)
+
+**Click the button above to watch the video showcase**
 
 *Experience the full power of OneAI's features in this comprehensive showcase*
 
