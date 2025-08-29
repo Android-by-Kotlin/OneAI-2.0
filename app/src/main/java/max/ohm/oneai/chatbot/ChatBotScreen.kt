@@ -219,8 +219,9 @@ fun ChatBotScreen(
     // Check if user is authenticated
     val isAuthenticated = remember { mutableStateOf(FirebaseAuth.getInstance().currentUser != null) }
     
-    // Available model options - GPT-4.1 Nano is first (default)
+    // Available model options - models/gemini-2.0-flash is first (default)
     val modelOptions = listOf(
+        "models/gemini-2.0-flash" to "Gemini 2.0 Flash",
         "provider-3/gpt-4.1-nano" to "GPT-4.1 Nano",
         "provider-6/gemini-2.5-flash" to "Gemini 2.5 Flash",
         "provider-3/kimi-k2" to "Kimi K2",

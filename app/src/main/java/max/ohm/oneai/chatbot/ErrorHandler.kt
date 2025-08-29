@@ -49,8 +49,15 @@ class ChatBotErrorHandler {
     // Available models with their configurations and fallback priority
     private val availableModels = mutableListOf(
         ModelConfig(
+            modelId = "models/gemini-2.0-flash",
+            displayName = "Gemini 2.0 Flash",
+            provider = "google",
+            priority = 0,
+            apiKey = GEMINI_API_KEY
+        ),
+        ModelConfig(
             modelId = "gemini-2.0-flash",
-            displayName = "Gemini Flash (Primary)",
+            displayName = "Gemini Flash (Legacy)",
             provider = "google",
             priority = 1,
             apiKey = GEMINI_API_KEY
