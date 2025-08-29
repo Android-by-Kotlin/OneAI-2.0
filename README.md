@@ -46,12 +46,12 @@
     <td align="center"><b>Image Transform</b><br><sub>AI-powered editing</sub></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/app%20screen.png" width="250" alt="Main Interface"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/Avatar.png" width="250" alt="Main Interface"></td>
     <td><img src="https://raw.githubusercontent.com/maxohm1/OneAI-ScreenShot/main/ai_chat.jpg" width="250" alt="AI Chat Interface"></td>
     <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/sketch.png" width="250" alt="Gallery View"></td>
   </tr>
   <tr>
-    <td align="center"><b>Home Screen</b><br><sub>Your creative AI companion</sub></td>
+    <td align="center"><b>Live Interactive Avatar</b><br><sub>Your creative AI companion</sub></td>
     <td align="center"><b>AI Chat</b><br><sub>Chat with AI models</sub></td>
     <td align="center"><b>Sketch to real image</b><br><sub>Your masterpieces</sub></td>
   </tr>
