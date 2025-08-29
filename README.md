@@ -19,9 +19,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/showcase.jpeg" width="250" alt="OneAI Home Screen"></td>
-    <td><img src="https://raw.githubusercontent.com/maxohm1/OneAI-ScreenShot/main/text_to_image.jpg" width="250" alt="Text to Image Generation"></td>
-    <td><img src="https://raw.githubusercontent.com/maxohm1/OneAI-ScreenShot/main/image_transform.jpg" width="250" alt="Image Transformation"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/oneai%20showcase.png" width="250" alt="OneAI Home Screen"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/realistic.png" width="250" alt="Text to Image Generation"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/tranform%20photo.png" width="250" alt="Image Transformation"></td>
   </tr>
   <tr>
     <td align="center"><b>Showcase</b><br><sub>Browse your AI creations</sub></td>
@@ -29,14 +29,35 @@
     <td align="center"><b>Image Transform</b><br><sub>AI-powered editing</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/maxohm1/OneAI-ScreenShot/main/main_interface.jpg" width="250" alt="Main Interface"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/app%20screen.png" width="250" alt="Main Interface"></td>
     <td><img src="https://raw.githubusercontent.com/maxohm1/OneAI-ScreenShot/main/ai_chat.jpg" width="250" alt="AI Chat Interface"></td>
-    <td><img src="https://raw.githubusercontent.com/maxohm1/OneAI-ScreenShot/main/home_screen.jpg" width="250" alt="Gallery View"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/sketch.png" width="250" alt="Gallery View"></td>
   </tr>
   <tr>
     <td align="center"><b>Home Screen</b><br><sub>Your creative AI companion</sub></td>
     <td align="center"><b>AI Chat</b><br><sub>Chat with AI models</sub></td>
-    <td align="center"><b>Available on Play Store</b><br><sub>Your masterpieces</sub></td>
+    <td align="center"><b>Sketch to real image</b><br><sub>Your masterpieces</sub></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/inpaint.png" width="250" alt="AI Chat Interface"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/try%20(1).png" width="250" alt="Gallery View"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/try(2).png" width="250" alt="Gallery View"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Brush Magic</b><br><sub>Chat with AI models</sub></td>
+    <td align="center"><b>Fashion Try On</b><br><sub>Your masterpieces</sub></td>
+   <td align="center"><b>Fashion Try On</b><br><sub>Your masterpieces</sub></td>
+  </tr>
+    </tr>
+    <tr>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/video%20show.png" width="250" alt="AI Chat Interface"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/head.png" width="250" alt="Gallery View"></td>
+    <td><img src="https://github.com/maxohm1/OneAI-ScreenShot/blob/main/ghibli.png" width="250" alt="Gallery View"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Video generation</b><br><sub>Chat with AI models</sub></td>
+    <td align="center"><b>Headshot</b><br><sub>Your masterpieces</sub></td>
+   <td align="center"><b>Ghibli</b><br><sub>Your masterpieces</sub></td>
   </tr>
 </table>
 
